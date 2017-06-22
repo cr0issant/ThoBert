@@ -1,0 +1,2 @@
+lat	lon	title	description	icon	iconSize	iconOffset
+44.8690000	0.4071000	Boutique de ThoBert	En ce moment je suis içi<br>N'hésite pas à consulter mon stock.<br>ThoBert.com/boutique	Ol_icon_blue_example.png	24,24	0,-24
